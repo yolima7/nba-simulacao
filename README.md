@@ -18,8 +18,17 @@ O objetivo principal é praticar **lógica de programação** e **orientação a
    ```bash
    git clone https://github.com/seu-usuario/nba-simulacao.git 
 2. Abra o projeto na sua IDE de uso(ex: IntelliJ).
-3. Compile e execute a classe <Main> no terminal. ´´´
-   
+3. Compile e execute a classe <Main> no terminal. 
+4. No console, escolha uma das opções:
+
+[1] Criar um novo Jogador
+
+[2] Mostrar informações do Jogador
+
+[3] Treinar Jogador (+2 Overall)
+
+[4] Finalizar programa 
+                        ´´´
 =======================================================
 
 Estrutura do Projeto:
